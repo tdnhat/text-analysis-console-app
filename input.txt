@@ -1,0 +1,11 @@
+
+The quick brown fox jumps over the lazy dog. This is a classic pangram sentence.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+The quick brown fox appears again in this text for analysis.
+Programming is fun and challenging. C# is a powerful language.
+Async and await make asynchronous programming easier.
+LINQ provides powerful query capabilities for data manipulation.
+The fox jumps quickly. The dog is lazy but friendly.
+Data analysis helps us understand patterns in text.
+This sample contains various words of different lengths and frequencies.
